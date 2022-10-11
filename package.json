@@ -60,7 +60,7 @@
     "slice-source": "0.4.1"
   },
   "peerDependencies": {
-    "ol": "^7"
+    "ol": "^7.1.1-dev.1664383879017"
   },
   "devDependencies": {
     "@babel/core": "7.18.10",
